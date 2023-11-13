@@ -1,0 +1,4 @@
+
+If you can't activate enviroment using VsCode Use this command in your vscode terminal and then tray to activate it. 
+
+"Set-ExecutionPolicy RemoteSigned -Scope Process"
